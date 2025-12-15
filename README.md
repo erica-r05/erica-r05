@@ -51,6 +51,7 @@ Always studying CS50, C++, Java, C#, and improving my portfolio.
 ## 📫 Contacts
 - 🌙 X/Twitter: *https://x.com/ericakkkjjkk*
 - 🖤 Instagram: *https://www.instagram.com/ericakjjkk/*
+- ⭐​ Linkedin: *https://www.linkedin.com/in/erica-regina/*
 
 ---
 
