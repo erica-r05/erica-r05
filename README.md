@@ -4,19 +4,19 @@
 
 <img src="https://.../giphy.gif" width="180" />
 
-### **I'm Erica 🖤** - 20 y/o - Brazil
+### **I'm Erica** - 20 y/o - Brazil
 </div>
 
 ---
 
 
-## 🦇✨ About Me
+## About Me
 I'm passionate about programming, learning new technologies, and constantly improving the skills I already master.
 Always studying CS50, C++, Java, C#, and improving my portfolio.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -28,36 +28,37 @@ Always studying CS50, C++, Java, C#, and improving my portfolio.
 ![Static Badge](https://img.shields.io/badge/vscode-6A5ACD?style=for-the-badge&logo=vscode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/git-6A5ACD?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/github-6A5ACD?style=for-the-badge&logo=github&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/java-6A5ACD?style=for-the-badge&logo=java&logoColor=white)
 
 
 </div>
 
 ---
 
-## 📚 I’m currently learning
-- 🌱 **Software Engineering**
-- 📘 **Java**
-- 🎯 **C#**
+##  I’m currently learning
+- **Software Engineering**
+- **AWS Cloud foundations**
+- **AWS Cloud Architecture**
+- **C#**
 
 ---
 
-## 🌙 My Projects
+## My Projects
 - mini websites about games and art
 - Study projects in JavaScript, html and css
 
 ---
 
-## 📫 Contacts
-- 🌙 X/Twitter: *https://x.com/ericakkkjjkk*
-- 🖤 Instagram: *https://www.instagram.com/ericakjjkk/*
-- ⭐​ Linkedin: *https://www.linkedin.com/in/erica-regina/*
+## Contacts
+- X/Twitter: *https://x.com/ericakkkjjkk*
+- Instagram: *https://www.instagram.com/ericakjjkk/*
+- Linkedin: *https://www.linkedin.com/in/erica-regina/*
 
 ---
 
 <div align="center">
 
-### ✨ thank you for stopping by 🌙
+### ✨ thank you for stopping by 
 
 </div>
 
