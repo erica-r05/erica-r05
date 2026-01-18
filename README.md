@@ -1,22 +1,49 @@
+<div align="center">
 # 👾🌙 Hey hey, welcome to my GitHub ✨
-
+</div>
 <div align="center">
 
 <img src="https://.../giphy.gif" width="180" />
 
-### **I'm Erica** - 20 y/o - Brazil
+### **I'm Erica** - Brazil
 </div>
 
 ---
 
 
 ## About Me
-I'm passionate about programming, learning new technologies, and constantly improving the skills I already master.
-Always studying CS50, C++, Java, C#, and improving my portfolio.
+I'm a Software Engineering student from Brazil, passionate about web development and problem-solving.
+Currently building projects with JavaScript, HTML, CSS, and Java, while continuously improving my skills and portfolio.
+
 
 ---
 
-##  Tech Stack
+## Education
+- Software Engineering – Undergraduate  
+  Currently studying
+
+---
+
+## Languages
+- English – Advanced
+- Spanish – Basic
+- Portuguese – Native
+
+---
+
+## Certifications & Courses
+- AWS Cloud Foundations (AWS Academy) – Completed
+- AWS Cloud Architecture (AWS Academy) – Completed
+- Git and GitHub (Curso em Vídeo – Gustavo Guanabara) – Completed
+- JavaScript (Curso em Vídeo – Gustavo Guanabara) – Completed
+- Java Fundamentals, Algorithms and Programming Logic (Nélio Alves) – Completed
+- English (NumberOne) – Completed
+- Spanish (ASSPROM) – Completed
+
+
+---
+
+## Tech Stack
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/C++-6A5ACD?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -35,24 +62,19 @@ Always studying CS50, C++, Java, C#, and improving my portfolio.
 
 ---
 
-##  I’m currently learning
-- **Software Engineering**
-- **AWS Cloud foundations**
-- **AWS Cloud Architecture**
-- **C#**
-
----
-
 ## My Projects
-- mini websites about games and art
-- Study projects in JavaScript, html and css
+- Responsive landing pages using HTML and CSS
+- Mini web applications with JavaScript (DOM manipulation, API consumption)
+- Study projects in Java focusing on OOP fundamentals
+
 
 ---
 
 ## Contacts
-- X/Twitter: *https://x.com/ericakkkjjkk*
-- Instagram: *https://www.instagram.com/ericakjjkk/*
-- Linkedin: *https://www.linkedin.com/in/erica-regina/*
+- LinkedIn: https://www.linkedin.com/in/erica-regina
+- Twitter (X): https://x.com/ericakkkjjkk
+- Instagram: https://www.instagram.com/ericakjjkk
+
 
 ---
 
