@@ -1,6 +1,9 @@
 <div align="center">
-# 👾🌙 Hey hey, welcome to my GitHub ✨
+
+#  Hey hey, welcome to my GitHub 
+
 </div>
+
 <div align="center">
 
 <img src="https://.../giphy.gif" width="180" />
@@ -80,7 +83,7 @@ Currently building projects with JavaScript, HTML, CSS, and Java, while continuo
 
 <div align="center">
 
-### ✨ thank you for stopping by 
+### Thank you for stopping by 
 
 </div>
 
